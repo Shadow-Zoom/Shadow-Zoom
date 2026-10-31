@@ -11,4 +11,3 @@ Based in CA, US. Passionate about traveling, hiking, reading, coding, and all th
 - 🔭 Working with `Golang` `Python` `K8S` — eyeing `Rust` next
 - 📫 Reach me at: shd.sock@gmail.com
 - 🦀 Side project: [loxia.cc](https://loxia.cc) — a collection of handy tools
-- <a href="https://loxia.cc" target="_blank">loxia.cc</a>
